@@ -109,6 +109,8 @@ Here are some ways to elevate this project to an industry-level product:
 
 - **MCP Server Support**: Langflow can serve as an MCP server exposing flows as tools callable by other applications. This turns Langflow from a UI-only playground into an API-first agent backend.
 
+- **Custom Component**:Custom components in Langflow are Python classes that extend functionality by inheriting from Component. Each component acts as a node, defining its own inputs, outputs, and processing logic. This allows integration of new features, data manipulation, external services, and specialized tools within Langflow's node-based environment.
+
 ---
 
 ## 📣 Target Audience
